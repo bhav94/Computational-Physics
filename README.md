@@ -1,4 +1,4 @@
-# Computational-Physics
+# Computational Physics
 
 Projects completed as a part of the Computational Physics course at California State University, Los Angeles. \
 Projects will be displayed as follows: **PROJECT TITLE**: *Description*
